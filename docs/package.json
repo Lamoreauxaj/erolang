@@ -16,7 +16,7 @@
         "dotenv": "^8.2.0",
         "nodemon": "^2.0.3",
         "temp": "^0.9.1",
-        "three": "^0.116.1",
+        "three": "^0.125.0",
         "vuepress": "^1.4.1",
         "vuepress-theme-thindark": "^1.0.1"
     }
